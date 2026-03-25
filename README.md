@@ -23,7 +23,7 @@ Vide tutoriais do PI.
 <p align="center">
   <img src="imagens/maya_clinica_rpg.png" alt="Sistema Mobile - Clínica Maya" width="700px">
   <br>
-  <span style="font-size: 14px;"><em>Interface e Identidade Visual do Sistema Clínica Maya - Fisioterapia & RPG. Imagem gerada com IA por Nick Youngson CC BY-SA 3.0 Pix4free (Adaptada para o contexto).</em></span>
+  <span style="font-size: 14px;"><em>Interface e Identidade Visual do Sistema Clínica Maya - Fisioterapia & RPG.</em></span>
 </p>
 
 O projeto **Sistema Mobile - Clínica Maya** é uma plataforma integrada (Aplicativo Mobile e Módulo Web) desenvolvida para otimizar o acompanhamento de pacientes de fisioterapia, com foco especializado em Reeducação Postural Global (RPG). O objetivo da solução é digitalizar e centralizar a comunicação entre a fisioterapeuta Maya Yoshiko Yamamoto e seus pacientes, substituindo o envio disperso de mensagens e orientações por um ambiente dedicado, organizado e de fácil acesso.
